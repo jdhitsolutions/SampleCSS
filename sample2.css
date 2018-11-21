@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+    font-family: "monospace";
+    background-color: #ebebeb;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%
+}
+
+td {
+    font-size: 10pt;
+    border: 1px solid #98bf21;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 1px;
+    padding-left: 1px;
+}
+
+th {
+    font-size: 12pt;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 2px;
+    padding-left: 2px;
+    background-color: #A7C942;
+    color: #ffffff;
+}
+
+name tr {
+    color: #000000;
+    background-color: #EAF2D3;
+}
+
+h2 {
+    font-size: 14pt;
+}
