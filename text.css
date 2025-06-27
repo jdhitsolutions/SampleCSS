@@ -5,19 +5,16 @@ body {
     font-family: Monospace;
     font-size: 10pt;
 }
-
 td,
 th {
     border: 0px solid black;
     border-collapse: collapse;
     white-space: pre;
 }
-
 th {
-    color: white;
+    color: #999988;
     background-color: black;
 }
-
 table,
 tr,
 td,
@@ -26,16 +23,13 @@ th {
     margin: 0px;
     white-space: pre;
 }
-
 table {
     margin-left: 25px;
 }
-
 h2 {
     font-family: Tahoma;
     color: #6D7B8D;
 }
-
 .footer {
     color: green;
     margin-left: 25px;
